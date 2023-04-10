@@ -1,6 +1,6 @@
 # Tarea programacion 3  Test automatizados
 #### Aplicacion
-> La aplicaion a la que se le realizaron estos test automatizados es una aplicacion de administracion de contactos telefonicos que se encutra desplegada en Heroku. Esta aplicaion se llama [contactappyhra](https://dashboard.heroku.com/apps/contactappyhra "contactappyhra")
+> La aplicaion a la que se le realizaron estos test automatizados es una aplicacion de administracion de contactos telefonicos que se encutra desplegada en Heroku. Esta aplicaion se llama [contactappyhra](https://contactappyhra.herokuapp.com/ "contactappyhra")
 
 #### Reportes
 > Los reportes y capturas de los test automatizados se encutran en la carpeta [Reportes](https://github.com/YohanHumberto/Pruebas_Automatizadas_Prg3/tree/main/Reportes "Reportes") de este repositorio.
